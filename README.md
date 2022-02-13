@@ -1,9 +1,8 @@
 # Prueba
 
-Cordial saludo a todos.
+For this Test, the feature is automationTest.Feature
 
-Este espacio para reforzar temas de ScreenPlay para automatización
-
-La idea es que aportemos y tengamos un artefacto robusto con muchas funcionalidades.
-
-Se sube un artefacto inicial.
+There are two scenarios:
+	
+		1) Valid data for all fields
+		2) Valid data for firstName, lastName, companyName, phoneNumber and Message. The wrong field is work email with an invalid format
